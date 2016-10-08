@@ -1,4 +1,4 @@
- :trollface:#Jezyki-Programowania :trollface:
+ :trollface: #Jezyki-Programowania :trollface:
 Zapoznanie z podstawowymi komendami terminala w linuxie :poop:
           
           
