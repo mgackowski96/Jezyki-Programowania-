@@ -6,3 +6,7 @@ Zapoznanie z podstawowymi komendami terminala w linuxie :poop:
 - [x] dodane zdjęcie kotka
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+   :ear: :nose: :ear:
+
