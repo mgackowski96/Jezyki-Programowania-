@@ -1,4 +1,3 @@
-# This is an <h1> tag
 #Jezyki-Programowania :trollface:
 **Zapoznanie z podstawowymi komendami terminala w linuxie** :poop:
           
