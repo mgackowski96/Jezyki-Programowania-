@@ -1,5 +1,5 @@
 #Jezyki-Programowania :trollface:
-Zapoznanie z podstawowymi komendami terminala w linuxie :poop:
+*Zapoznanie z podstawowymi komendami terminala w linuxie* :poop:
           
           
 - [x] zapoznanie z podstawowymi komendami
